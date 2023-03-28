@@ -3,13 +3,13 @@
 
 # Hi Buddy!! Welcome 👋
 
-## Project Name: Crypto Landing Page
+## Project Name: DSA Project 
 
 ---
 
 ### Project Descripttion
 
-> **In this project I have created a Crypto Landing Page from scratch**
+> **In this project, I have built simple real world programs using DSA. I started building these when I was learning DSA in my 2nd semester**
 
 ---
 
